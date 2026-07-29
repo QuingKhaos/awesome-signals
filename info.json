@@ -1,16 +1,13 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESC###",
+  "name": "awesome-signals",
+  "title": "Awesome Signals",
+  "description": "Collection of Font Awesome icons as virtual signals for all your circuitry needs.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.77",
-
-    "khaosbash >= 1.2.0",
-    "khaoslib >= 1.18.0"
+    "base >= 2.0.77"
   ],
   "package": {
     "ignore": [
